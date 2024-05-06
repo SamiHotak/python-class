@@ -1,7 +1,8 @@
-**Question:**
+# Question:
+
 You are given a list of numbers representing the daily temperatures for a week. Write a Python program to calculate the average temperature for the week and count how many days had temperatures above the average.
 
-**Steps to Solve:**
+## Steps to Solve:
 
 1. Define a list of temperatures for a week.
 2. Calculate the total sum of temperatures in the list.
